@@ -14,3 +14,4 @@ npm run test-single specs/filter/
 ```
 npm run test-single specs/filter/choose_even_spec.js
 ```
+npm run test-single spec/filter/choose_even_spec.js
